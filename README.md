@@ -11,4 +11,6 @@ Add a shorcut key using this method:
  2. Enter name of your shortcut (say: myScreenshot).
  3. Enter the command: sh /home/jasleen/Scripts/myscreenshot.sh    (replace jasleen with your username)
  4. Now Command has been added. Select the row of your custom shortcut. On the right it will be written 'Disabled'. Click on it & hold on the keys make shortcut.(say Ctrl +X)
+ 
+Now Shortcut is ready :)
 
